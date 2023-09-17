@@ -20,7 +20,7 @@ export class AppComponent implements OnInit {
         description: 'Mon meilleur ami depuis tout petit !',
         imageUrl: 'https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg',
         createdDate: new Date(),
-        snaps: 8,
+        snaps: 100,
         location: 'Paris'
       },
       {
@@ -28,7 +28,7 @@ export class AppComponent implements OnInit {
         description: 'Un endroit magnifique pour les rendonnées.',
         imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Three_Rock_Mountain_Southern_Tor.jpg',
         createdDate: new Date(),
-        snaps: 7,
+        snaps: 180,
         location: 'la Montaigne'
       },
       {
@@ -36,14 +36,14 @@ export class AppComponent implements OnInit {
         description: 'Mmmh que c\'est bon !',
         imageUrl: 'https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg',
         createdDate: new Date(),
-        snaps: 4,
+        snaps: 200,
       },
       {
         title: 'Archibald',
         description: 'Mon meilleur ami depuis tout petit !',
         imageUrl: 'https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg',
         createdDate: new Date(),
-        snaps: 8,
+        snaps: 266,
         location: 'Paris'
       },
       {
@@ -51,7 +51,7 @@ export class AppComponent implements OnInit {
         description: 'Un endroit magnifique pour les rendonnées.',
         imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Three_Rock_Mountain_Southern_Tor.jpg',
         createdDate: new Date(),
-        snaps: 7,
+        snaps: 75,
         location: 'la Montaigne'
       },
       {
@@ -59,7 +59,7 @@ export class AppComponent implements OnInit {
         description: 'Mmmh que c\'est bon !',
         imageUrl: 'https://wtop.com/wp-content/uploads/2020/06/HEALTHYFRESH.jpg',
         createdDate: new Date(),
-        snaps: 4,
+        snaps: 35,
       }
     ];
   }
